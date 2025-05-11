@@ -29,7 +29,7 @@
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/finance-logger.git
+   git clone https://github.com/Osikoya17/finance-logger.git
    ```
 
 2. **Navigate into the project directory:**
