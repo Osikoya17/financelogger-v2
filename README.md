@@ -54,11 +54,13 @@
 
 ---
 
-## 🌟 Upcoming Features
+## 🌟 New Features
 
 - [ ] **Category Tags** for better financial analysis.
 - [ ] **Date-based filtering** to track monthly and yearly spending.
 - [ ] **Export to CSV** for offline record keeping.
+
+## 🌟 Upcoming Features
 - [ ] **Monthly Graphs and Summaries** for in-depth tracking.
 
 ---
